@@ -95,3 +95,12 @@ button:hover span{
 button:hover span{
     border: none;
 }
+.banner2{
+    width: 100%;
+    height: 200vh;
+    background-image: url(clouds.jpg);
+    background-size: cover;
+    background-position: center;
+    transform: translateY(30%);
+}
+}
